@@ -798,23 +798,21 @@ To read more about this tool follow this link: <http://bit.ly/2ksdzKV>
 
     ![Screenshot of the Restart IIS button.](images/Handsonlabstep-by-step-Azuresecurityandmanagementimages/media/image106.png "Restart IIS button")
 
-22. This will only take a few seconds. Now, the Cl\`
+ **Step 22.** Click on **Open in MIcrosoft Azure Portal** 
 
-<!-- -->
+  ![](images/microsoftazure1.png)
 
-1.  ![Screenshot of a Stats Tile.](images/Handsonlabstep-by-step-Azuresecurityandmanagementimages/media/image111.png "Stats Tile")
+* **Step 23.**  Click on **Application map** under Investigate menu.
 
-2.  Click the ellipse on each '...' tile, and click through each option to see the different data being pulled as a part of the Application Insights data.
+  ![](images/image2.png)
 
-    a.  ![The Ellipses button is selected on the Stats tile.](images/Handsonlabstep-by-step-Azuresecurityandmanagementimages/media/image112.png "Ellipses button")
+* **Step 23.** You can now see application map pane as shown in following image:
 
-        ![In the Dependency calls dashboard, a callout points to the list of dependencies.](images/Handsonlabstep-by-step-Azuresecurityandmanagementimages/media/image113.png "Dependency calls dashboard")
+  ![](images/image3.png)
 
-        ![Screenshot of the AdventureWorks page displaying Dependency Properties.](images/Handsonlabstep-by-step-Azuresecurityandmanagementimages/media/image114.png "AdventureWorks page")
+* **Step 24.** Close the Application map pane, then Click on the **Alerts (classic)** in the Configure section.
 
-3.  Close the **App Map** pane, then Click on the **Alerts** in the **Configure** section.
-
-    ![Under Configure, Alerts is selected.](images/Handsonlabstep-by-step-Azuresecurityandmanagementimages/media/image115.png "Configure section")
+ <kbd>![](images/image4.png)</kbd>
 
 4.  Click **+Add Metric Alert,** complete the blade with the following information, and click **OK**.
 
