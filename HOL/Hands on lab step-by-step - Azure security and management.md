@@ -430,23 +430,23 @@ NOTE: When connecting to machines during this lab for the first time, you may en
 
 12. When logging on for the first time, you will see a prompt on the right asking about network discovery. Click **No**.
 
-![The No button is selected in the Networks prompt.](images/Handsonlabstep-by-step-Azuresecurityandmanagementimages/media/image10.png "Networks prompt")
+![](images/network1.png)
 
 13. Notice the Server Manager opens by default. On the left, click **Local Server**.
 
-![Screenshot of the Local Server option.](images/Handsonlabstep-by-step-Azuresecurityandmanagementimages/media/image11.png "Local Server option")
+![](images/localsercer2.png)
 
 14. On the right side of the pane, click **On** by **IE Enhanced Security Configuration**.
 
-![The IE Enhanced Security Configuration is set to On.](images/Handsonlabstep-by-step-Azuresecurityandmanagementimages/media/image12.png "IE Enhanced Security Configuration setting")
+![](images/IE3.png)
 
 15. Change to **Off** for Administrators and click **OK**.
 
-![Screenshot of the Internet Explorer Enhanced Security Configuration dialog box.](images/Handsonlabstep-by-step-Azuresecurityandmanagementimages/media/image13.png "Internet Explorer Enhanced Security Configuration dialog box")
+![](turnoff4.png)
 
 16. In the lower left corner, click on the **Windows** button to open the **Start Screen**. Then, click **Internet Explorer** to open it. On first use, you will be prompted about security settings. Accept the defaults by clicking **OK**.
 
-![Screenshot of the Internet Explorer 11 security settings dialog box with Use recommended settings selected.](images/Handsonlabstep-by-step-Azuresecurityandmanagementimages/media/image14.png "Internet Explorer 11 security settings dialog box")
+![](images/security5.png)
 
 17. Leave your RDP Session to **WEBVM1** open and minimized. Then, repeat this same procedure for **WEBVM2**.
 
